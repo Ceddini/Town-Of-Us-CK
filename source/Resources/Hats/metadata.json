@@ -1,8 +1,18 @@
 {
   "credits": [
     {
+      "id": "ck0000",
+      "name": "test hat",
+      "artist": "_Core Keeper"
+    },
+    {
+      "id": "ck0001",
+      "name": "Cat Ears Purple",
+      "artist": "_Core Keeper"
+    },
+    {
       "id": "hats0000",
-      "name": "annamaja hat",
+      "name": "annamajaaa hat",
       "artist": "TheLastShaymin"
     },
     {
